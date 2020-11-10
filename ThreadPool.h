@@ -1,9 +1,3 @@
-/*************************************************************************
-	> File Name: ThreadPool.h
-	> Author: 
-	> Mail: 
-	> Created Time: Tue 10 Nov 2020 12:55:51 PM EST
- ************************************************************************/
 
 #ifndef _THREADPOOL_H
 #define _THREADPOOL_H
