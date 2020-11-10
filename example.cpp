@@ -1,9 +1,3 @@
-/*************************************************************************
-	> File Name: prime_thread.cpp
-	> Author: 
-	> Mail: 
-	> Created Time: Tue 10 Nov 2020 11:25:15 AM EST
- ************************************************************************/
 
 #include <iostream>
 #include <functional>
